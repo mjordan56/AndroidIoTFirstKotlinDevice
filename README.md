@@ -1,9 +1,9 @@
 # Android Things First Kotlin Device
 
-This is a Kotlin version of the [Android Things First Device ](https://mjordan56.github.io/AndroidIoTFirstDevice/) project. This project uses the same hardware as the First Device project. The software in this project uses Kotlin instead of Java to implement the simple test IoT device.
+This is a Kotlin version of the [Android Things First Device ](https://mjordan56.github.io/AndroidIoTFirstDevice/) project. This project uses the same hardware as the First Device project. The software in this project uses Kotlin instead of Java to implement the simple test IoT device. See the [Android Things First Kotlin Device ](https://mjordan56.github.io/AndroidIoTFirstKotlinDevice/) web site for detailed information about this project.
 
 ## Pre-requisites
-This project uses the combined button and LED circuit hardware configuration described in the [Android Things First Device ](https://mjordan56.github.io/AndroidIoTFirstDevice/) project.
+This project uses the combined button and LED circuit hardware configuration described in the [Android Things First Device ](https://mjordan56.github.io/AndroidIoTFirstDevice/) project. See that project for information on how to set-up the hardware used in this project.
 
 ### Hardware
 - Raspberry Pi 3 Model B
